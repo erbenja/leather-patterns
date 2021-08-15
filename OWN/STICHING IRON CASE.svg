@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-162.53887"
-     inkscape:cy="592.10462"
+     inkscape:zoom="0.35"
+     inkscape:cx="918.48286"
+     inkscape:cy="1152.067"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -217,7 +217,7 @@
        rx="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.53;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 70.58178,280.01792 v -54.911"
+       d="m 71.650858,280.01792 v -54.911"
        id="path933" />
     <rect
        style="fill:none;fill-opacity:0.866667;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;paint-order:fill markers stroke"
@@ -229,7 +229,7 @@
        rx="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.53;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 37.243238,280.01791 V 225.10692"
+       d="M 40.316838,280.01791 V 225.10692"
        id="path937" />
     <rect
        style="fill:none;fill-opacity:0.866667;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;paint-order:fill markers stroke"
@@ -241,7 +241,7 @@
        rx="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.53;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 23.865262,280.01791 V 225.10692"
+       d="M 25.335244,280.01791 V 225.10692"
        id="path941" />
     <path
        id="path916"
@@ -384,5 +384,16 @@
        d="m -181.82609,29.145167 c 0,0 -0.1858,-43.944718 29.48533,-43.944718 29.48214,0 29.48532,43.944718 29.48532,43.944718 -18.70982,6.80357 -36.67005,6.99256 -58.97065,0 z"
        id="path1016"
        sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:5.55;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="10.872855"
+       y="295.81454"
+       id="text884"><tspan
+         sodipodi:role="line"
+         x="10.872855"
+         y="295.81454"
+         style="stroke-width:0.264583"
+         id="tspan886">MOVED BY HAND (not precise)</tspan></text>
   </g>
 </svg>
