@@ -12,7 +12,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   sodipodi:docname="CARD HOLDER FLIP.svg"
+   sodipodi:docname="CARD HOLDER BIFOLD.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
   <defs
      id="defs2" />
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="526.057"
-     inkscape:cy="668.73309"
+     inkscape:zoom="0.35"
+     inkscape:cx="466.80058"
+     inkscape:cy="1019.9507"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -252,27 +252,37 @@
     </g>
     <g
        id="g935"
-       transform="translate(335.87814,-232.24008)">
+       transform="matrix(0.5,0,0,1,362.47577,91.154692)"
+       style="stroke-width:1.41421">
       <g
-         id="g969">
-        <rect
-           style="fill:#b6ff94;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
-           id="rect881"
-           width="140"
-           height="69"
-           x="-15.312966"
-           y="312.67349" />
-        <text
-           xml:space="preserve"
-           style="font-size:19.7556px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-           x="20.312483"
-           y="354.93393"
-           id="text885"><tspan
-             sodipodi:role="line"
-             id="tspan883"
-             x="20.312483"
-             y="354.93393"
-             style="font-size:19.7556px;stroke-width:0.264583">100 Kč</tspan></text>
+         id="g969"
+         style="stroke-width:1.41421">
+        <g
+           id="g1136">
+          <rect
+             style="fill:#b6ff94;fill-opacity:1;stroke:#000000;stroke-width:0.141421;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="rect881"
+             width="140"
+             height="69"
+             x="-14.516687"
+             y="313.73224" />
+          <text
+             xml:space="preserve"
+             style="font-size:19.7556px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.374177"
+             x="-8.4137077"
+             y="344.35059"
+             id="text885"><tspan
+               sodipodi:role="line"
+               id="tspan883"
+               x="-8.4137077"
+               y="344.35059"
+               style="font-size:19.7556px;stroke-width:0.374177">100 Kč</tspan><tspan
+               sodipodi:role="line"
+               x="-8.4137077"
+               y="366.08176"
+               style="font-size:19.7556px;stroke-width:0.374177"
+               id="tspan1130">Folded in 1/2</tspan></text>
+        </g>
       </g>
     </g>
     <g
@@ -338,8 +348,8 @@
        id="rect833"
        width="85.599998"
        height="54"
-       x="-83.053406"
-       y="-63.684803"
+       x="-58.165031"
+       y="-78.280914"
        transform="rotate(-90)"
        ry="4.4859252" />
     <g
@@ -598,6 +608,87 @@
          sodipodi:open="true"
          transform="scale(-1)"
          d="m -115.92798,-116.89759 a 16,16 0 0 1 -16,16" />
+    </g>
+    <g
+       id="g1092"
+       transform="matrix(0.5,0,0,1,178.11761,-488.11265)"
+       style="stroke-width:1.41421">
+      <g
+         id="g1110"
+         transform="translate(135.77292,9.6217029)">
+        <rect
+           style="fill:#8989f4;fill-opacity:1;stroke:#000000;stroke-width:0.141421;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="rect1086"
+           width="170"
+           x="-33.902424"
+           y="884.31293"
+           height="74" />
+        <text
+           xml:space="preserve"
+           style="font-size:19.7556px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.374177"
+           x="-12.59205"
+           y="917.43127"
+           id="text1090"><tspan
+             sodipodi:role="line"
+             id="tspan1088"
+             x="-12.59205"
+             y="917.43127"
+             style="font-size:19.7556px;stroke-width:0.374177">5000 Kč</tspan><tspan
+             sodipodi:role="line"
+             x="-12.59205"
+             y="939.16241"
+             style="font-size:19.7556px;stroke-width:0.374177"
+             id="tspan1104">Folded in 1/2</tspan></text>
+      </g>
+    </g>
+    <path
+       id="path1096"
+       style="fill:none;stroke:#000000;stroke-width:0.0999993;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       d="m 71.586654,336.55611 h -49.7644 v 104.90005 h 49.7644 v -30.09479 a 28.196934,28.196934 0 0 1 -11.01225,-22.35522 28.196934,28.196934 0 0 1 11.01225,-22.35472 z" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0999998;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect1098"
+       width="67.400002"
+       height="104.9"
+       x="21.822268"
+       y="336.55618"
+       ry="0" />
+    <path
+       id="path1094"
+       style="fill:none;stroke:#000000;stroke-width:0.0999993;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       d="m 106.85787,441.45623 h 49.76438 V 336.55619 h -49.76438 v 30.0948 a 28.196934,28.196934 0 0 1 11.01224,22.35522 28.196934,28.196934 0 0 1 -11.01224,22.35471 z" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0999998;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect1100"
+       width="67.400002"
+       height="104.9"
+       x="89.22226"
+       y="336.55618"
+       ry="0" />
+    <g
+       id="g1128"
+       transform="translate(335.87813,-232.24009)">
+      <g
+         id="g1126">
+        <rect
+           style="fill:#b6ff94;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="rect1120"
+           width="140"
+           height="69"
+           x="-15.312966"
+           y="312.67349" />
+        <text
+           xml:space="preserve"
+           style="font-size:19.7556px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="20.312483"
+           y="354.93393"
+           id="text1124"><tspan
+             sodipodi:role="line"
+             id="tspan1122"
+             x="20.312483"
+             y="354.93393"
+             style="font-size:19.7556px;stroke-width:0.264583">100 Kč</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
