@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="466.80058"
-     inkscape:cy="1019.9507"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="470.20426"
+     inkscape:cy="722.62122"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="1341"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -53,17 +53,17 @@
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
-       x="127.39945"
-       y="83.265999"
+       x="135.74529"
+       y="79.783173"
        id="text1260"><tspan
          sodipodi:role="line"
-         x="127.39945"
-         y="83.265999"
+         x="135.74529"
+         y="79.783173"
          style="stroke:none;stroke-width:0.264583"
          id="tspan1266">Get correct allowence </tspan><tspan
          sodipodi:role="line"
-         x="127.39945"
-         y="89.474884"
+         x="135.74529"
+         y="85.99205"
          style="stroke:none;stroke-width:0.264583"
          id="tspan1304">for folding!!!</tspan></text>
     <rect
@@ -287,7 +287,7 @@
     </g>
     <g
        id="g1038"
-       transform="rotate(180,86.90479,140.41169)"
+       transform="rotate(180,86.266853,139.73936)"
        style="opacity:0.5;fill:none;stroke:#000000">
       <path
          id="path863"
@@ -412,8 +412,8 @@
     </g>
     <g
        id="g1293"
-       transform="rotate(90,53.85628,95.084701)"
-       style="stroke:#000000;fill:none">
+       transform="rotate(90,53.890681,93.77443)"
+       style="fill:none;stroke:#000000">
       <g
          id="g1214"
          transform="translate(-62.366071,-138.71726)"
@@ -537,7 +537,7 @@
     <g
        id="g1300"
        style="opacity:0.5;fill:none;stroke:#000000"
-       transform="translate(-55.940829,11.442997)">
+       transform="translate(-57.216701,10.098315)">
       <path
          id="path1270"
          style="fill:none;stroke:#000000;stroke-width:0.0999993;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
@@ -571,43 +571,52 @@
          d="m 269.35458,-78.425186 a 16,16 0 0 1 -16,16" />
     </g>
     <g
-       id="g1322">
-      <rect
-         style="opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0999999;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
-         id="rect1256"
-         width="179.89999"
-         height="89.900002"
-         x="100.89758"
-         y="-205.82797"
-         transform="rotate(90)" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
-         id="path1295"
-         sodipodi:type="arc"
-         sodipodi:cx="264.79758"
-         sodipodi:cy="-131.92798"
-         sodipodi:rx="16"
-         sodipodi:ry="16"
-         sodipodi:start="0"
-         sodipodi:end="1.5707963"
-         sodipodi:arc-type="arc"
-         sodipodi:open="true"
-         transform="rotate(90)"
-         d="m 280.79758,-131.92798 a 16,16 0 0 1 -16,16" />
-      <path
-         style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
-         id="path1302"
-         sodipodi:type="arc"
-         sodipodi:cx="-131.92798"
-         sodipodi:cy="-116.89759"
-         sodipodi:rx="16"
-         sodipodi:ry="16"
-         sodipodi:start="0"
-         sodipodi:end="1.5707963"
-         sodipodi:arc-type="arc"
-         sodipodi:open="true"
-         transform="scale(-1)"
-         d="m -115.92798,-116.89759 a 16,16 0 0 1 -16,16" />
+       id="g1322"
+       transform="translate(27.321286,3.2777232)">
+      <g
+         id="g944"
+         transform="translate(32.606882,7.4835468)">
+        <g
+           id="g949"
+           transform="translate(-58.799296,-17.10525)">
+          <rect
+             style="opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.101379;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="rect1256"
+             width="184.89862"
+             height="89.898621"
+             x="100.89827"
+             y="-205.82729"
+             transform="rotate(90)" />
+          <path
+             style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="path1295"
+             sodipodi:type="arc"
+             sodipodi:cx="269.79758"
+             sodipodi:cy="-131.92798"
+             sodipodi:rx="16"
+             sodipodi:ry="16"
+             sodipodi:start="0"
+             sodipodi:end="1.5707963"
+             sodipodi:arc-type="arc"
+             sodipodi:open="true"
+             transform="rotate(90)"
+             d="m 285.79758,-131.92798 a 16,16 0 0 1 -16,16" />
+          <path
+             style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="path1302"
+             sodipodi:type="arc"
+             sodipodi:cx="-131.92798"
+             sodipodi:cy="-116.89759"
+             sodipodi:rx="16"
+             sodipodi:ry="16"
+             sodipodi:start="0"
+             sodipodi:end="1.5707963"
+             sodipodi:arc-type="arc"
+             sodipodi:open="true"
+             transform="scale(-1)"
+             d="m -115.92798,-116.89759 a 16,16 0 0 1 -16,16" />
+        </g>
+      </g>
     </g>
     <g
        id="g1092"
@@ -644,27 +653,29 @@
     <path
        id="path1096"
        style="fill:none;stroke:#000000;stroke-width:0.0999993;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
-       d="m 71.586654,336.55611 h -49.7644 v 104.90005 h 49.7644 v -30.09479 a 28.196934,28.196934 0 0 1 -11.01225,-22.35522 28.196934,28.196934 0 0 1 11.01225,-22.35472 z" />
+       d="m -321.27645,619.79044 v -49.76441 h -104.90004 v 49.76441 h 30.09479 a 28.196934,28.196934 0 0 1 22.35521,-11.01225 28.196934,28.196934 0 0 1 22.35472,11.01225 z" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.0999998;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect1098"
        width="67.400002"
        height="104.9"
-       x="21.822268"
-       y="336.55618"
-       ry="0" />
+       x="435.22604"
+       y="321.27643"
+       ry="0"
+       transform="rotate(90)" />
     <path
        id="path1094"
        style="fill:none;stroke:#000000;stroke-width:0.0999993;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
-       d="m 106.85787,441.45623 h 49.76438 V 336.55619 h -49.76438 v 30.0948 a 28.196934,28.196934 0 0 1 11.01224,22.35522 28.196934,28.196934 0 0 1 -11.01224,22.35471 z" />
+       d="m -426.17701,619.79044 v 49.76436 h 104.90004 v -49.76436 h -30.0948 a 28.196934,28.196934 0 0 1 -22.35522,11.01222 28.196934,28.196934 0 0 1 -22.35471,-11.01222 z" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.0999998;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect1100"
        width="67.400002"
        height="104.9"
-       x="89.22226"
-       y="336.55618"
-       ry="0" />
+       x="502.62604"
+       y="321.27643"
+       ry="0"
+       transform="rotate(90)" />
     <g
        id="g1128"
        transform="translate(335.87813,-232.24009)">
@@ -689,6 +700,28 @@
              y="354.93393"
              style="font-size:19.7556px;stroke-width:0.264583">100 Kč</tspan></text>
       </g>
+    </g>
+    <g
+       id="g939"
+       transform="matrix(0.99994391,0,0,1.1119742,-456.00586,423.91739)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0925808;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect933"
+         width="67.403709"
+         height="89.907417"
+         x="10.625367"
+         y="-229.16852"
+         ry="0"
+         transform="rotate(90)" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.0925808;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect935"
+         width="67.403709"
+         height="89.907417"
+         x="78.029076"
+         y="-229.16852"
+         ry="0"
+         transform="rotate(90)" />
     </g>
   </g>
 </svg>
