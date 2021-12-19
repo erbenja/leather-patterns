@@ -143,9 +143,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-321.17311"
-     inkscape:cy="835.50227"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-1170.4748"
+     inkscape:cy="-470.83929"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -3418,5 +3418,93 @@
        height="34.715015"
        x="11.90026"
        y="19.142187" />
+    <path
+       id="rect3293-1-8"
+       style="opacity:0.4;fill:none;stroke:#000000;stroke-width:0.250889;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m -391.71269,-254.79294 v 46.20389 h 47.74954 v -46.20389 z m -0.0124,46.32688 a 23.887342,25.493213 0 0 0 11.94346,22.07773 23.887342,25.493213 0 0 0 23.88743,0 23.887342,25.493213 0 0 0 11.94346,-22.07773 h -23.88744 z" />
+    <path
+       id="path3309-9-3"
+       style="opacity:0.4;fill:none;stroke:#000000;stroke-width:0.250889;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m -391.71269,-254.79294 v 46.20389 h 47.74954 v -46.20389 z m -0.0124,46.32688 a 23.887342,25.493213 0 0 0 11.94346,22.07773 23.887342,25.493213 0 0 0 23.88743,0 23.887342,25.493213 0 0 0 11.94346,-22.07773 h -23.88744 z" />
+    <rect
+       style="opacity:0.4;fill:none;stroke:#000000;stroke-width:0.282346;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect1692"
+       width="134.75969"
+       height="188.9229"
+       x="-314.34888"
+       y="-379.64917" />
+    <rect
+       style="opacity:0.4;fill:none;stroke:#000000;stroke-width:0.206317;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect1694"
+       width="134.74728"
+       height="100.81166"
+       x="-314.44482"
+       y="-190.71745" />
+    <ellipse
+       style="opacity:0.4;fill:none;stroke:#000000;stroke-width:0.174018;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="ellipse1696"
+       cx="-247.23311"
+       cy="-339.81064"
+       rx="2.4207506"
+       ry="2.5169725" />
+    <rect
+       style="opacity:0.399;fill:none;stroke:#000000;stroke-width:0.28997;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.869904, 0.28997;stroke-dashoffset:0;paint-order:stroke fill markers"
+       id="rect1698"
+       width="67.175301"
+       height="39.773647"
+       x="-314.35718"
+       y="-379.65762" />
+    <ellipse
+       style="opacity:0.4;fill:none;stroke:#000000;stroke-width:0.174018;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="ellipse1702"
+       cx="-247.43306"
+       cy="-109.5254"
+       rx="2.4207506"
+       ry="2.5169725" />
+    <rect
+       style="opacity:0.399;fill:none;stroke:#000000;stroke-width:0.28997;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.869907, 0.28997;stroke-dashoffset:0;paint-order:stroke fill markers"
+       id="rect1704"
+       width="67.175301"
+       height="19.71003"
+       x="-314.44482"
+       y="-109.61583" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;paint-order:stroke markers fill"
+       id="path1708"
+       sodipodi:type="arc"
+       sodipodi:cx="-227.09435"
+       sodipodi:cy="-137.30264"
+       sodipodi:rx="47.3675"
+       sodipodi:ry="47.3675"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       sodipodi:arc-type="arc"
+       d="m -179.72684,-137.30264 a 47.3675,47.3675 0 0 1 -47.36751,47.367497"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;paint-order:stroke markers fill"
+       id="path1710"
+       sodipodi:type="arc"
+       sodipodi:cx="267.04797"
+       sodipodi:cy="-137.30264"
+       sodipodi:rx="47.3675"
+       sodipodi:ry="47.3675"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       sodipodi:arc-type="arc"
+       d="m 314.41547,-137.30264 a 47.3675,47.3675 0 0 1 -47.3675,47.367497"
+       sodipodi:open="true"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:5.55;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-337.15854"
+       y="-403.00589"
+       id="text1728"><tspan
+         sodipodi:role="line"
+         x="-337.15854"
+         y="-403.00589"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         id="tspan1726">PNS recorder OK SIZING</tspan></text>
   </g>
 </svg>
