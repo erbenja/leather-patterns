@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="CARD HOLDER CASE.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="CARD HOLDER CASE.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <marker
@@ -96,18 +96,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="46.06452"
-     inkscape:cy="579.27952"
+     inkscape:zoom="3.9597981"
+     inkscape:cx="-175.514"
+     inkscape:cy="728.06743"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2880"
+     inkscape:window-height="1690"
+     inkscape:window-x="-12"
+     inkscape:window-y="1878"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -125,7 +126,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:none;fill-opacity:0;stroke:#b3b3b3;stroke-width:0.1;stroke-linejoin:bevel;paint-order:fill markers stroke;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-opacity:0;stroke:#b3b3b3;stroke-width:0.1;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect855"
        width="103.9"
        height="193.89999"
@@ -160,7 +161,7 @@
        x="25.17515"
        y="367.96338" />
     <rect
-       style="fill:none;fill-opacity:0;stroke:#999999;stroke-width:0.09999985;stroke-linejoin:bevel;paint-order:fill markers stroke;stroke-miterlimit:4;stroke-dasharray:0.29999955,0.09999985;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0;stroke:#999999;stroke-width:0.0999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.3, 0.0999999;stroke-dashoffset:0;paint-order:fill markers stroke"
        id="rect863"
        width="54.900002"
        height="29.9"
@@ -173,7 +174,7 @@
        cy="221.49962"
        r="1.2695302" />
     <rect
-       style="fill:none;fill-opacity:0;stroke:#999999;stroke-width:0.09999985;stroke-linejoin:bevel;paint-order:fill markers stroke;stroke-miterlimit:4;stroke-dasharray:0.29999955,0.09999985;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0;stroke:#999999;stroke-width:0.0999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.3, 0.0999999;stroke-dashoffset:0;paint-order:fill markers stroke"
        id="rect867"
        width="54.900002"
        height="14.900001"
@@ -254,7 +255,7 @@
        y="-201.31575"
        transform="scale(-1)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.37000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.37000001, 4.44000007999999990;stroke-dashoffset:1.51700003"
+       style="fill:none;stroke:#000000;stroke-width:0.37;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.37, 4.44;stroke-dashoffset:1.517;stroke-opacity:1"
        d="m 75.697309,248.21574 27.584681,-0.0744 3.50763,-9.82563 41.71538,1e-5 3.48867,9.87286 27.60365,0.0271"
        id="path934" />
     <path
@@ -421,7 +422,7 @@
        d="m 179.58171,120.22532 v 48.49999"
        id="path1011" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 105.24274,251.1888 3.5347,-9.87305 h 37.73974 l 3.53937,9.87305"
        id="path1013" />
     <path
@@ -626,5 +627,24 @@
          x="-139.45334"
          y="27.473688"
          style="stroke-width:0.264583">FLASH DRIVES CASE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-56.260235"
+       y="190.42952"
+       id="text2358"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-56.260235"
+         y="190.42952"
+         id="tspan2360">3,5 cm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -62.541067,172.92338 v 32.80733 h 1.603618 -2.873147"
+       id="path4113" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -62.541067,205.73071 v -32.80733 h -1.60361 2.87314"
+       id="path4195" />
   </g>
 </svg>
