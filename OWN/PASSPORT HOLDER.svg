@@ -121,9 +121,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17500001"
-     inkscape:cx="-637.76121"
-     inkscape:cy="63.524444"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="1716.4039"
+     inkscape:cy="1252.6999"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -402,7 +402,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g927"
-       transform="translate(160.01283,19.999357)">
+       transform="translate(136.95628,-6.0809994)">
       <path
          id="rect897"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00157;paint-order:stroke markers fill"
@@ -454,7 +454,7 @@
        ry="0" />
     <g
        id="g1075"
-       transform="translate(-346.22618,19.654761)">
+       transform="translate(-345.47023,16.630952)">
       <rect
          ry="4.7247024"
          y="76.294777"
@@ -477,7 +477,7 @@
     </g>
     <g
        id="g1080"
-       transform="translate(-346.22618,19.654761)">
+       transform="translate(-346.60416,18.142856)">
       <rect
          ry="4.7247024"
          y="154.00945"
@@ -611,6 +611,95 @@
              y="-101.08325" />
         </g>
       </g>
+    </g>
+    <g
+       id="g1246"
+       transform="translate(-333.94178,-443.83462)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:miter;stroke-miterlimit:4.9;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect1169"
+         width="114.735"
+         height="154.735"
+         x="420.88342"
+         y="262.83087"
+         ry="0" />
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:miter;stroke-miterlimit:4.9;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect1171"
+         width="114.735"
+         height="154.735"
+         x="306.14844"
+         y="262.83087"
+         ry="0" />
+    </g>
+    <g
+       id="g1232"
+       transform="rotate(90,251.64811,286.13743)">
+      <rect
+         style="opacity:0.51;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:miter;stroke-miterlimit:4.9;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect1175"
+         width="79.735001"
+         height="154.735"
+         x="160.75381"
+         y="359.58243"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="169.9834"
+         y="415.33682"
+         id="text1219"><tspan
+           sodipodi:role="line"
+           id="tspan1217"
+           x="169.9834"
+           y="415.33682"
+           style="stroke-width:0.264583">LEFT</tspan></text>
+    </g>
+    <g
+       id="g1237"
+       transform="translate(-201.83928,-251.73214)">
+      <rect
+         style="opacity:0.51;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:miter;stroke-miterlimit:4.9;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect1173"
+         width="94.735001"
+         height="154.735"
+         x="211.41345"
+         y="262.83087"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="262.45868"
+         y="306.82541"
+         id="text1223"><tspan
+           sodipodi:role="line"
+           id="tspan1221"
+           x="262.45868"
+           y="306.82541"
+           style="stroke-width:0.264583">LEFT</tspan></text>
+    </g>
+    <g
+       id="g1242"
+       transform="translate(-334.88689,-252.48809)">
+      <rect
+         style="opacity:0.51;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:miter;stroke-miterlimit:4.9;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect1193"
+         width="79.735001"
+         height="154.735"
+         x="455.88342"
+         y="262.83087"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="470.92886"
+         y="311.10172"
+         id="text1227"><tspan
+           sodipodi:role="line"
+           id="tspan1225"
+           x="470.92886"
+           y="311.10172"
+           style="stroke-width:0.264583">RIGHT</tspan></text>
     </g>
   </g>
 </svg>
