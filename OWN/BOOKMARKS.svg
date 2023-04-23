@@ -17,6 +17,12 @@
   <defs
      id="defs2">
     <rect
+       x="-230.18749"
+       y="14.287499"
+       width="86.254163"
+       height="271.99166"
+       id="rect361" />
+    <rect
        x="136.26042"
        y="73.025"
        width="28.045833"
@@ -94,9 +100,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="1677.9943"
-     inkscape:cy="1005.3438"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="-1389.4035"
+     inkscape:cy="51.039254"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -2176,5 +2182,116 @@
            id="tspan1420">V</tspan><tspan
            style="font-size:11.2889px;stroke:#000000;fill:none;"
            id="tspan1422">.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text359"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect361);" />
+    <rect
+       style="opacity:0.4;fill:#d38d5f;stroke:#000000;stroke-width:0.189877;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect888-4"
+       width="39.766445"
+       height="169.81012"
+       x="328.88916"
+       y="12.332449"
+       transform="scale(-1,1)" />
+    <g
+       id="g947-7"
+       transform="matrix(0.99996614,0,0,1.0132312,-492.65396,-80.703292)"
+       style="fill:#d38d5f">
+      <g
+         id="g912-3"
+         transform="matrix(1.3329904,0,0,0.99986855,22.673188,-16.482202)"
+         style="opacity:0.4;fill:#d38d5f;stroke:#000000">
+        <rect
+           style="opacity:0.53;fill:#d38d5f;stroke:#000000;stroke-width:0.112021;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect900-8"
+           width="3.7369635"
+           height="29.505898"
+           x="75.985481"
+           y="246.42607" />
+        <rect
+           style="opacity:0.53;fill:#d38d5f;stroke:#000000;stroke-width:0.112021;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect914-4"
+           width="3.7369635"
+           height="29.505898"
+           x="79.722443"
+           y="246.42607" />
+        <rect
+           style="opacity:0.53;fill:#d38d5f;stroke:#000000;stroke-width:0.112021;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect916-6"
+           width="3.7369635"
+           height="29.505898"
+           x="83.459404"
+           y="246.42607" />
+        <rect
+           style="opacity:0.53;fill:#d38d5f;stroke:#000000;stroke-width:0.112021;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect918-6"
+           width="3.7369635"
+           height="29.505898"
+           x="87.196373"
+           y="246.42607" />
+        <rect
+           style="opacity:0.53;fill:#d38d5f;stroke:#000000;stroke-width:0.112021;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect920-1"
+           width="3.7369635"
+           height="29.505898"
+           x="90.933334"
+           y="246.42607" />
+        <rect
+           style="opacity:0.53;fill:#d38d5f;stroke:#000000;stroke-width:0.112021;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect922-1"
+           width="3.7369635"
+           height="29.505898"
+           x="94.670296"
+           y="246.42607" />
+        <rect
+           style="opacity:0.53;fill:#d38d5f;stroke:#000000;stroke-width:0.112021;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect924-6"
+           width="3.7369635"
+           height="29.505898"
+           x="98.407257"
+           y="246.42607" />
+        <rect
+           style="opacity:0.53;fill:#d38d5f;stroke:#000000;stroke-width:0.112021;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect926-3"
+           width="3.7369635"
+           height="29.505898"
+           x="102.14422"
+           y="246.42607" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-357.00739"
+       y="27.779743"
+       id="text475"><tspan
+         sodipodi:role="line"
+         id="tspan473"
+         x="-357.00739"
+         y="27.779743"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.264583">M. G.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-356.42538"
+       y="137.7652"
+       id="text475-8"><tspan
+         sodipodi:role="line"
+         id="tspan473-0"
+         x="-356.42538"
+         y="137.7652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.264583">2023</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-361.48938"
+       y="129.48885"
+       id="text475-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan473-0-5"
+         x="-361.48938"
+         y="129.48885"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.264583">PĆG KV</tspan></text>
   </g>
 </svg>
