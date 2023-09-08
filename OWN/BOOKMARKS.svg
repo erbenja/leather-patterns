@@ -18,6 +18,39 @@
      id="defs2">
     <inkscape:path-effect
        effect="bspline"
+       id="path-effect1264"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1258"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1248"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
        id="path-effect25015"
        is_visible="true"
        lpeversion="1"
@@ -288,8 +321,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-2008.9999"
-     inkscape:cy="344.99999"
+     inkscape:cx="-2060"
+     inkscape:cy="499"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -2488,7 +2521,7 @@
        height="243.69322"
        x="-607.75391"
        y="-20.114315"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -2499,7 +2532,7 @@
        x="500.16354"
        y="21.217319"
        transform="scale(-1,1)"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
@@ -2574,7 +2607,7 @@
        id="path1587"
        inkscape:path-effect="#path-effect1589"
        inkscape:original-d="m -535.03171,191.02743 c 2.7e-4,-9.96386 2.7e-4,-19.92798 0,-29.89237"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2583,7 +2616,7 @@
        id="path1591"
        inkscape:path-effect="#path-effect1593"
        inkscape:original-d="m -530.05053,161.13506 c 2.7e-4,9.96439 2.7e-4,19.92851 0,29.89237"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2592,7 +2625,7 @@
        id="path1595"
        inkscape:path-effect="#path-effect1597"
        inkscape:original-d="m -525.06935,191.02743 c 0,-9.96386 0,-19.92798 0,-29.89237"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2601,7 +2634,7 @@
        id="path1599"
        inkscape:path-effect="#path-effect1601"
        inkscape:original-d="m -520.0882,161.13506 c 2.7e-4,9.96439 2.7e-4,19.92851 0,29.89237"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2610,7 +2643,7 @@
        id="path1603"
        inkscape:path-effect="#path-effect1605"
        inkscape:original-d="m -515.10702,191.02743 c 2.7e-4,-9.96386 2.7e-4,-19.92798 0,-29.89237"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2619,7 +2652,7 @@
        id="path1607"
        inkscape:path-effect="#path-effect1609"
        inkscape:original-d="m -510.12587,161.13506 c 2.7e-4,9.96439 2.7e-4,19.92851 0,29.89237"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2628,7 +2661,7 @@
        id="path1611"
        inkscape:path-effect="#path-effect1613"
        inkscape:original-d="m -505.14469,191.02743 c 2.6e-4,-9.96386 2.6e-4,-19.92798 0,-29.89237"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2637,7 +2670,7 @@
        id="path2412"
        inkscape:path-effect="#path-effect2414"
        inkscape:original-d="m -539.92999,11.208075 c 13.25576,2.65e-4 26.51122,2.65e-4 39.76645,0"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2646,7 +2679,7 @@
        id="path2529"
        inkscape:path-effect="#path-effect2531"
        inkscape:original-d="m -483.51265,21.217319 c 2.7e-4,56.603637 2.7e-4,113.207011 0,169.810111"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2655,7 +2688,7 @@
        id="path2613"
        inkscape:path-effect="#path-effect2617"
        inkscape:original-d="m -555.14375,191.02743 c 2.7e-4,-9.96386 2.7e-4,-19.92798 0,-29.89237"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -2664,7 +2697,7 @@
        x="-527.25024"
        y="8.0979967"
        id="text3831"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -2678,7 +2711,7 @@
        x="-477.64087"
        y="112.7407"
        id="text18117"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -2692,7 +2725,7 @@
        x="-578.18256"
        y="179.81258"
        id="text20985"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -2706,7 +2739,7 @@
        id="path24718"
        inkscape:path-effect="#path-effect24720"
        inkscape:original-d="m -556.91481,160.99895 c 1.12474,2.7e-4 2.24922,2.7e-4 3.37343,0"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2715,7 +2748,7 @@
        id="path24821"
        inkscape:path-effect="#path-effect24825"
        inkscape:original-d="m -556.91481,190.89687 c 1.12474,2.7e-4 2.24922,2.7e-4 3.37343,0"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2724,7 +2757,7 @@
        id="path24827"
        inkscape:path-effect="#path-effect24831"
        inkscape:original-d="m -485.34502,190.89687 c 1.12474,2.7e-4 2.24922,2.7e-4 3.37343,0"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2733,7 +2766,7 @@
        id="path24833"
        inkscape:path-effect="#path-effect24837"
        inkscape:original-d="m -485.14658,21.117059 c 1.12474,2.7e-4 2.24922,2.7e-4 3.37343,0"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2742,7 +2775,7 @@
        id="path24839"
        inkscape:path-effect="#path-effect24843"
        inkscape:original-d="m -500.16169,9.6738259 c -2.6e-4,1.1247531 -2.7e-4,2.2492251 1e-5,3.3734461"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2751,8 +2784,56 @@
        id="path25011"
        inkscape:path-effect="#path-effect25015"
        inkscape:original-d="m -539.81612,9.6738259 c -2.6e-4,1.1247531 -2.7e-4,2.2492251 10e-6,3.3734461"
-       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <g
+       id="g3035"
+       transform="translate(-153.97398,213.23431)"
+       inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\bookmark-template.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0938185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -386.33019,-17.042105 c 1.6667,0 3.33337,0 5,0"
+         id="path1244"
+         inkscape:path-effect="#path-effect1248"
+         inkscape:original-d="m -386.33019,-17.042105 c 1.6667,2.65e-4 3.33337,2.65e-4 5,0"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="-389.74008"
+         y="-9.3947926"
+         id="text1252"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan1250"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="-389.74008"
+           y="-9.3947926">5 mm</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -381.12652,-18.71688 c 0,1.124753 1e-5,2.249225 1e-5,3.373446"
+         id="path1254"
+         inkscape:path-effect="#path-effect1258"
+         inkscape:original-d="m -381.12652,-18.71688 c -2.6e-4,1.124753 -2.7e-4,2.249225 1e-5,3.373446"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -386.21632,-18.576563 c 0,1.124753 10e-6,2.249225 10e-6,3.373446"
+         id="path1260"
+         inkscape:path-effect="#path-effect1264"
+         inkscape:original-d="m -386.21632,-18.576563 c -2.6e-4,1.124753 -2.7e-4,2.249225 10e-6,3.373446"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\rect888-4-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
   </g>
 </svg>
