@@ -18,6 +18,28 @@
      id="defs2">
     <inkscape:path-effect
        effect="bspline"
+       id="path-effect998"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect984"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
        id="path-effect22665"
        is_visible="true"
        lpeversion="1"
@@ -68,9 +90,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="1053.5891"
-     inkscape:cy="-2192.031"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="418.60721"
+     inkscape:cy="-2220.3153"
      inkscape:document-units="mm"
      inkscape:current-layer="g22657"
      inkscape:document-rotation="0"
@@ -824,11 +846,344 @@
     <path
        id="path943"
        style="fill:none;stroke:#000000;stroke-width:0.0999993;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
-       d="M 49.973008,-547.98001 H 0.20859793 v 104.90004 H 49.973008 v -30.09479 a 28.196934,28.196934 0 0 1 -11.01225,-22.35521 28.196934,28.196934 0 0 1 11.01225,-22.35472 z" />
+       d="m -47.3131,-517.29747 h -49.76441 v 104.90004 h 49.76441 v -30.09479 a 28.196934,28.196934 0 0 1 -11.01225,-22.35521 28.196934,28.196934 0 0 1 11.01225,-22.35472 z" />
     <path
        id="path945"
        style="fill:none;stroke:#000000;stroke-width:0.0999993;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
-       d="M 49.973008,-443.07945 H 99.73736 V -547.97949 H 49.973008 v 30.0948 a 28.196934,28.196934 0 0 1 11.012212,22.35522 28.196934,28.196934 0 0 1 -11.012212,22.35471 z" />
+       d="M -47.3131,-412.39691 H 2.4512519 V -517.29695 H -47.3131 v 30.0948 a 28.196934,28.196934 0 0 1 11.012212,22.35522 28.196934,28.196934 0 0 1 -11.012212,22.35471 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-55.17955"
+       y="-331.34305"
+       id="text959"><tspan
+         sodipodi:role="line"
+         id="tspan957"
+         x="-55.17955"
+         y="-331.34305"
+         style="stroke-width:0.264583">Resized  +1cm H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.00001px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="175.63306"
+       y="-302.94855"
+       id="text926"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="175.63306"
+         y="-302.94855"
+         id="tspan924">Team Assistant</tspan></text>
+    <g
+       id="g22657"
+       transform="matrix(0,-0.99991015,1.07442,0,325.3091,-247.47592)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.12552;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect39658"
+         width="496.39377"
+         height="159.46228"
+         x="-150.47452"
+         y="-310.45624"
+         transform="rotate(90)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-56.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
+         id="rect22637"
+         width="134.61359"
+         height="104.66649"
+         x="-54.842472"
+         y="-433.49655"
+         transform="rotate(90)"
+         ry="7.951983"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path22639"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.24378"
+         d="m 1005.6758,-1952.1367 v 207.7109 h 0.1347 v 100.9668 c 0,16.8447 14.572,30.4063 32.6719,30.4063 h 481.3985 c 18.0999,0 32.6718,-13.5616 32.6718,-30.4063 v -100.9668 h 0.1348 v -207.7109 z"
+         transform="matrix(0,0.2462569,-0.26460711,0,-97.995145,-302.53022)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 433.59484,11.876258 c -34.90986,0 -69.8197,0 -104.72956,0"
+         id="path22641"
+         inkscape:path-effect="#path-effect22661"
+         inkscape:original-d="m 433.59484,11.876258 c -34.90986,2.46e-4 -69.8197,2.46e-4 -104.72956,0"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+         x="30.759577"
+         y="-330.59506"
+         id="text22645"
+         transform="matrix(0,0.96470259,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+           x="30.759577"
+           y="-330.59506"
+           id="tspan22643">Team assistant</tspan></text>
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
+         id="rect22647"
+         width="134.61359"
+         height="104.66649"
+         x="120.33223"
+         y="-435.36761"
+         transform="rotate(90)"
+         ry="7.951983"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path22649"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.317496"
+         d="m 420.42516,120.29909 h -54.96178 v 0.0332 h -26.71653 c -4.45723,0 -8.04573,3.58845 -8.04573,8.04568 v 118.5477 c 0,4.45722 3.5885,8.04566 8.04573,8.04566 h 26.71653 v 0.0332 h 54.96178 z"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 435.46589,187.05096 c -34.90986,0 -69.8197,0 -104.72956,0"
+         id="path22651"
+         inkscape:path-effect="#path-effect22665"
+         inkscape:original-d="m 435.46589,187.05096 c -34.90986,2.4e-4 -69.8197,2.4e-4 -104.72956,0"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+         x="343.20114"
+         y="253.8797"
+         id="text22655"
+         transform="scale(1.0365889,0.9647026)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+           x="343.20114"
+           y="253.8797"
+           id="tspan22653">Team assistant</tspan></text>
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
+         id="rect975"
+         width="134.61359"
+         height="104.66649"
+         x="-56.93203"
+         y="-577.19354"
+         transform="rotate(90)"
+         ry="7.951983"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path978"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.317496"
+         d="m 562.25111,-56.965174 h -54.96178 v 0.03317 H 480.5728 c -4.45723,0 -8.04572,3.588455 -8.04572,8.04568 V 69.66138 c 0,4.457225 3.58849,8.045656 8.04572,8.045656 h 26.71653 v 0.03319 h 54.96178 z"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 577.29185,9.786699 c -34.90986,0 -69.8197,0 -104.72956,0"
+         id="path980"
+         inkscape:path-effect="#path-effect984"
+         inkscape:original-d="m 577.29185,9.786699 c -34.90986,2.46e-4 -69.8197,2.46e-4 -104.72956,0"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+         x="52.333408"
+         y="-467.81598"
+         id="text988"
+         transform="matrix(0,0.96470259,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+           x="52.333408"
+           y="-467.81598"
+           id="tspan986">TAS</tspan></text>
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
+         id="rect990"
+         width="134.61359"
+         height="104.66649"
+         x="118.24267"
+         y="-579.06464"
+         transform="rotate(90)"
+         ry="7.951983"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path992"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.317496"
+         d="m 564.12217,118.20953 h -54.96178 v 0.0332 h -26.71653 c -4.45723,0 -8.04573,3.58845 -8.04573,8.04568 v 118.5477 c 0,4.45722 3.5885,8.04566 8.04573,8.04566 h 26.71653 v 0.0332 h 54.96178 z"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 579.1629,184.9614 c -34.90986,0 -69.8197,0 -104.72956,0"
+         id="path994"
+         inkscape:path-effect="#path-effect998"
+         inkscape:original-d="m 579.1629,184.9614 c -34.90986,2.4e-4 -69.8197,2.4e-4 -104.72956,0"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+         x="473.65747"
+         y="251.71368"
+         id="text1002"
+         transform="scale(1.0365889,0.9647026)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+           x="473.65747"
+           y="251.71368"
+           id="tspan1000">TAS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="-123.78901"
+         y="-494.5191"
+         id="text4772"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="-123.78901"
+           y="-494.5191"
+           id="tspan6922">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="-123.78901"
+         y="-494.5191"
+         id="text20542"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="-123.78901"
+           y="-494.5191"
+           id="tspan20540">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="-123.78901"
+         y="-352.6452"
+         id="text20546"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="-123.78901"
+           y="-352.6452"
+           id="tspan20544">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="-123.78901"
+         y="-210.41031"
+         id="text20550"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="-123.78901"
+           y="-210.41031"
+           id="tspan20548">5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="307.96973"
+         y="-494.5191"
+         id="text20558"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR-bifold-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="307.96973"
+           y="-494.5191"
+           id="tspan20556">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="307.96973"
+         y="-494.5191"
+         id="text20562"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="307.96973"
+           y="-494.5191"
+           id="tspan20560" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="307.96973"
+         y="-352.6452"
+         id="text20566"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="307.96973"
+           y="-352.6452"
+           id="tspan20564">4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="307.96973"
+         y="-210.41031"
+         id="text20570"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="307.96973"
+           y="-210.41031"
+           id="tspan20568">6</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="307.96973"
+         y="-210.41031"
+         id="text20574"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="307.96973"
+           y="-210.41031"
+           id="tspan20572" /></text>
+    </g>
     <g
        id="g955"
        transform="matrix(0,-0.99991015,1.07442,0,325.04452,-97.98634)">
@@ -895,95 +1250,6 @@
            x="343.20114"
            y="253.8797"
            id="tspan9301">Team Assistant</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="42.10656"
-       y="-362.0256"
-       id="text959"><tspan
-         sodipodi:role="line"
-         id="tspan957"
-         x="42.10656"
-         y="-362.0256"
-         style="stroke-width:0.264583">Resized  +1cm H</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.00001px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-       x="175.63306"
-       y="-302.94855"
-       id="text926"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="175.63306"
-         y="-302.94855"
-         id="tspan924">Team Assistant</tspan></text>
-    <g
-       id="g22657"
-       transform="matrix(0,-0.99991015,1.07442,0,325.3091,-247.47592)">
-      <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
-         id="rect22637"
-         width="134.61359"
-         height="104.66649"
-         x="-54.842472"
-         y="-433.49655"
-         transform="rotate(90)"
-         ry="7.951983" />
-      <path
-         id="path22639"
-         style="fill:#ffffff;stroke:#000000;stroke-width:1.24378"
-         d="m 1005.6758,-1952.1367 v 207.7109 h 0.1347 v 100.9668 c 0,16.8447 14.572,30.4063 32.6719,30.4063 h 481.3985 c 18.0999,0 32.6718,-13.5616 32.6718,-30.4063 v -100.9668 h 0.1348 v -207.7109 z"
-         transform="matrix(0,0.2462569,-0.26460711,0,-97.995145,-302.53022)" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 433.59484,11.876258 c -34.90986,0 -69.8197,0 -104.72956,0"
-         id="path22641"
-         inkscape:path-effect="#path-effect22661"
-         inkscape:original-d="m 433.59484,11.876258 c -34.90986,2.46e-4 -69.8197,2.46e-4 -104.72956,0" />
-      <text
-         xml:space="preserve"
-         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
-         x="30.759577"
-         y="-330.59506"
-         id="text22645"
-         transform="matrix(0,0.96470259,-1.0365889,0,0,0)"><tspan
-           sodipodi:role="line"
-           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
-           x="30.759577"
-           y="-330.59506"
-           id="tspan22643">Team assistant</tspan></text>
-      <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
-         id="rect22647"
-         width="134.61359"
-         height="104.66649"
-         x="120.33223"
-         y="-435.36761"
-         transform="rotate(90)"
-         ry="7.951983" />
-      <path
-         id="path22649"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.317496"
-         d="m 420.42516,120.29909 h -54.96178 v 0.0332 h -26.71653 c -4.45723,0 -8.04573,3.58845 -8.04573,8.04568 v 118.5477 c 0,4.45722 3.5885,8.04566 8.04573,8.04566 h 26.71653 v 0.0332 h 54.96178 z" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 435.46589,187.05096 c -34.90986,0 -69.8197,0 -104.72956,0"
-         id="path22651"
-         inkscape:path-effect="#path-effect22665"
-         inkscape:original-d="m 435.46589,187.05096 c -34.90986,2.4e-4 -69.8197,2.4e-4 -104.72956,0" />
-      <text
-         xml:space="preserve"
-         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
-         x="343.20114"
-         y="253.8797"
-         id="text22655"
-         transform="scale(1.0365889,0.9647026)"><tspan
-           sodipodi:role="line"
-           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
-           x="343.20114"
-           y="253.8797"
-           id="tspan22653">Team assistant</tspan></text>
     </g>
   </g>
 </svg>
