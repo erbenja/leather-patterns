@@ -7,6 +7,9 @@
    id="svg8"
    sodipodi:docname="CARD_HOLDER_BIFOLD_MINIMALIST.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -16,6 +19,72 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1121"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1117"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1058"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1044"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1030"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1016"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect998"
@@ -90,9 +159,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="418.60721"
-     inkscape:cy="-2220.3153"
+     inkscape:zoom="0.5"
+     inkscape:cx="-1914"
+     inkscape:cy="-2784"
      inkscape:document-units="mm"
      inkscape:current-layer="g22657"
      inkscape:document-rotation="0"
@@ -879,12 +948,12 @@
       <rect
          style="fill:#ffffff;stroke:#000000;stroke-width:1.12552;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect39658"
-         width="496.39377"
+         width="496.3934"
          height="159.46228"
-         x="-150.47452"
-         y="-310.45624"
+         x="-1005.4785"
+         y="-474.51263"
          transform="rotate(90)"
-         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\MKR BIFOLD\MKR-bifold-56.png"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <rect
@@ -1183,6 +1252,253 @@
            x="307.96973"
            y="-210.41031"
            id="tspan20572" /></text>
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
+         id="rect1008"
+         width="134.61359"
+         height="104.66649"
+         x="-924.62183"
+         y="-450.4314"
+         transform="rotate(90)"
+         ry="7.951983"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1010"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.317496"
+         d="m 435.48896,-924.65497 h -54.96178 v 0.0332 h -26.71653 c -4.45723,0 -8.04573,3.58846 -8.04573,8.04568 v 118.5477 c 0,4.45723 3.5885,8.04566 8.04573,8.04566 h 26.71653 v 0.0332 h 54.96178 z"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 450.52969,-857.9031 c -34.90986,0 -69.8197,0 -104.72956,0"
+         id="path1012"
+         inkscape:path-effect="#path-effect1016"
+         inkscape:original-d="m 450.52969,-857.9031 c -34.90986,2.5e-4 -69.8197,2.5e-4 -104.72956,0"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-843.78491"
+         y="-346.22299"
+         id="text1020"
+         transform="matrix(0,0.96470259,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+           x="-843.78491"
+           y="-346.22299"
+           id="tspan1018">L.V.</tspan></text>
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
+         id="rect1022"
+         width="134.61359"
+         height="104.66649"
+         x="-749.44714"
+         y="-452.30246"
+         transform="rotate(90)"
+         ry="7.951983"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1024"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.317496"
+         d="m 437.36001,-749.48027 h -54.96178 v 0.0332 H 355.6817 c -4.45723,0 -8.04573,3.58845 -8.04573,8.04568 v 118.5477 c 0,4.45722 3.5885,8.04566 8.04573,8.04566 h 26.71653 v 0.0332 h 54.96178 z"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 452.40074,-682.7284 c -34.90986,0 -69.8197,0 -104.72956,0"
+         id="path1026"
+         inkscape:path-effect="#path-effect1030"
+         inkscape:original-d="m 452.40074,-682.7284 c -34.90986,2.4e-4 -69.8197,2.4e-4 -104.72956,0"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+         x="350.01682"
+         y="-645.36328"
+         id="text1034"
+         transform="scale(1.0365889,0.9647026)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+           x="350.01682"
+           y="-645.36328"
+           id="tspan1032">L.V.</tspan></text>
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
+         id="rect1036"
+         width="134.61359"
+         height="104.66649"
+         x="-926.71136"
+         y="-594.12842"
+         transform="rotate(90)"
+         ry="7.951983"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1038"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.317496"
+         d="m 579.18596,-926.74453 h -54.96178 v 0.0332 h -26.71653 c -4.45723,0 -8.04572,3.58846 -8.04572,8.04568 v 118.5477 c 0,4.45723 3.58849,8.04566 8.04572,8.04566 h 26.71653 v 0.0332 h 54.96178 z"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 594.2267,-859.99266 c -34.90986,0 -69.8197,0 -104.72956,0"
+         id="path1040"
+         inkscape:path-effect="#path-effect1044"
+         inkscape:original-d="m 594.2267,-859.99266 c -34.90986,2.5e-4 -69.8197,2.5e-4 -104.72956,0"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-842.8186"
+         y="-484.7803"
+         id="text1048"
+         transform="matrix(0,0.96470259,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+           x="-842.8186"
+           y="-484.7803"
+           id="tspan1046">L V</tspan></text>
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.342949"
+         id="rect1050"
+         width="134.61359"
+         height="104.66649"
+         x="-751.53668"
+         y="-595.99951"
+         transform="rotate(90)"
+         ry="7.951983"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path1052"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.317496"
+         d="m 581.05702,-751.56983 h -54.96178 v 0.0332 h -26.71653 c -4.45723,0 -8.04573,3.58845 -8.04573,8.04568 v 118.5477 c 0,4.45722 3.5885,8.04566 8.04573,8.04566 h 26.71653 v 0.0332 h 54.96178 z"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.310173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.310173, 1.86104;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 596.09775,-684.81796 c -34.90986,0 -69.8197,0 -104.72956,0"
+         id="path1054"
+         inkscape:path-effect="#path-effect1058"
+         inkscape:original-d="m 596.09775,-684.81796 c -34.90986,2.4e-4 -69.8197,2.4e-4 -104.72956,0"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.78875px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+         x="488.27982"
+         y="-649.16797"
+         id="text1062"
+         transform="scale(1.0365889,0.9647026)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.0964789;stroke-miterlimit:4;stroke-dasharray:none"
+           x="488.27982"
+           y="-649.16797"
+           id="tspan1060">L V</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="-1025.3926"
+         y="-510.8562"
+         id="text1066"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="-1025.3926"
+           y="-510.8562"
+           id="tspan1064">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="-1025.3926"
+         y="-510.8562"
+         id="text1070"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="-1025.3926"
+           y="-510.8562"
+           id="tspan1068">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="-1025.3926"
+         y="-368.9823"
+         id="text1074"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="-1025.3926"
+           y="-368.9823"
+           id="tspan1072">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="-593.63391"
+         y="-510.8562"
+         id="text1082"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-12.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="-593.63391"
+           y="-510.8562"
+           id="tspan1080">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.5916px;line-height:1.25;font-family:'Tilt Prism';-inkscape-font-specification:'Tilt Prism';stroke-width:0.255267"
+         x="-593.63391"
+         y="-368.9823"
+         id="text1086"
+         transform="matrix(0,0.9647026,-1.0365889,0,0,0)"
+         inkscape:export-filename="C:\Users\jerben\repos\leather-patterns\OWN\EXPORTS\LVA BIFOLD\LVA-bifold-pozice-textu-34.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.5916px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.255267"
+           x="-593.63391"
+           y="-368.9823"
+           id="tspan1084">4</tspan></text>
     </g>
     <g
        id="g955"
